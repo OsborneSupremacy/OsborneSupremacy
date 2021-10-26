@@ -36,13 +36,13 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 * **Azure** - App Services, SQL Databases, Application Insights, KeyVault, Function Apps
 * **Web Frontend** - AngularJs, Angular, TypeScript, CSS, SASS, Bootstrap
-* **Misc** - Docker, IdentityServer, SpecFlow, Artillery.io, R
+* **Misc.** - Docker, IdentityServer, SpecFlow, Artillery.io, R
 
 ---
 
 ## Employment History
 
-### Milliman IntelliScript
+### [Milliman IntelliScript](https://www.rxhistories.com/)
 
 **Application Architect** (2021-11—Present)
 
@@ -52,11 +52,11 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 **Software Development Team Lead** (2019-09—2020-10), **Software Developer** (2017-05—2019-08)
 
-* Developed Windows microservices to facilitate data integrations with multiple vendors, and subsequent processing of that data.
+* Developed windows microservices to facilitate data integrations with multiple vendors, and subsequent processing of that data.
 * Developed and deployed mock web APIs to Azure to help develop and test our API consumption services.
 * Led the effort to adopt unit testing, creating patterns and standards for the team.
 
-### Sand Castle Field Services, LLC
+### [Sand Castle Field Services, LLC](https://www.sandcastlefs.com/)
 
 **Senior Application Developer** (2014-06—2016-05)
 
@@ -67,7 +67,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 * Established Continuous Integration
 * Transitioned codebase from SourceSafe to Team Foundation System. Implemented source control for SQL Server DBs.
 
-### The Benefit Services Group, Inc.
+### [The Benefit Services Group, Inc.](http://bsg.com/)
 
 **Application Development Manager** (2012-06—2014-10)
 
@@ -84,12 +84,12 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 ## Education
 
-### University of Wisconsin—Milwaukee
+### [University of Wisconsin—Milwaukee](https://uwm.edu/)
 
 * **B.A., Philosophy**
     * Graduated _cum laude_, 2000
 * **Political Science** minor
 
-### Milwaukee School of Engineering
+### [Milwaukee School of Engineering](https://www.msoe.edu/)
 
 * Attended from 1995—1996
