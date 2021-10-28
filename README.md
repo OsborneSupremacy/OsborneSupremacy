@@ -47,6 +47,8 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 * **In Progress** - _Domain Driven Design_, _Release It!_
 * **Recently Finished** - _The DevOps Handbook_, _The Unicorn Project_, _Beyond the Phoenix Project_, _Critical Chain_
+* **All-time Favorites** - _The Phoenix Project_, _The Goal_, _Atomic Habits_, _Essentialism_
+
 ---
 
 ## Employment History
