@@ -69,7 +69,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 ### [Sand Castle Field Services, LLC](https://www.sandcastlefs.com/)
 
-**Senior Application Developer** (2014-06—2016-05)
+**Senior Application Developer** (2014-06—2017-05)
 
 * Full stack ASP.NET development and support
 * Created new Intranet built on .NET Framework MVC, training other developers on that methodology.
