@@ -38,6 +38,15 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 * **Web Frontend** - AngularJs, Angular, TypeScript, CSS, SASS, Bootstrap
 * **Misc.** - Docker, IdentityServer, SpecFlow, Artillery.io, R
 
+### Currently Learning
+
+* **In Progress** - MongoDb, Vue.js
+* **Future** - F#, Event-driven Architecture
+
+### Reading List
+
+* **In Progress** - _Domain Driven Design_, _Release It!_
+* **Recently Finished** - _The DevOps Handbook_, _The Unicorn Project_, _Beyond the Phoenix Project_, _Critical Chain_
 ---
 
 ## Employment History
