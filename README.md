@@ -15,7 +15,7 @@
 
 I am an experienced software engineer, passionate about building solutions that create value for organizations.
 
-In my career I’ve worked as a software developer, development team lead, and application development manager. In my current role as an application architect, I provide designs, prototypes, patterns, standards, and mentoring for my team members and organization.
+In my career I’ve worked as a software developer, development team lead, and application development manager. In my current role as an software architect, I provide designs, prototypes, patterns, standards, and mentoring for my team members and organization.
 
 I am most experienced with the Microsoft ecosystem, particularly .NET (Core and Framework) web and Windows applications with SQL Server databases. Additionally, I enjoy learning new technologies as needs and opportunities arise.
 
@@ -55,7 +55,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 ### [Milliman IntelliScript](https://www.rxhistories.com/)
 
-**Application Architect** (2021-11—Present)
+**Software Architect** (2021-11—Present)
 
 * Helped design and implement architecture for backend API (.NET Core 3.1), which was part of a complete UI rewrite of organization's flagship web application.
 * Created code and architectural standards for backend development team.
