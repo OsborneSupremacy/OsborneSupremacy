@@ -55,7 +55,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 ### [Milliman IntelliScript](https://www.rxhistories.com/)
 
-**Software Architect** (2021-11—Present)
+**Software Architect** (2020-11—Present)
 
 * Helped design and implement architecture for backend API (.NET Core 3.1), which was part of a complete UI rewrite of organization's flagship web application.
 * Created code and architectural standards for backend development team.
