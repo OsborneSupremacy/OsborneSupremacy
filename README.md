@@ -36,11 +36,11 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 * **Azure** - App Services, SQL Databases, Application Insights, KeyVault, Function Apps
 * **Web Frontend** - AngularJs, Angular, TypeScript, CSS, SASS, Bootstrap
-* **Misc.** - Docker, IdentityServer, SpecFlow, Artillery.io, R
+* **Misc.** -  PowerShell, Docker, IdentityServer, SpecFlow, Artillery.io, R
 
 ### Currently Learning
 
-* **In Progress** - MongoDb, Vue.js
+* **In Progress** - MongoDb, Vue.js, Blazor
 * **Future** - F#, Event-driven Architecture
 
 ### Reading List
