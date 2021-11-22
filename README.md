@@ -35,7 +35,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 ### Moderately Proficient
 
 * **Azure** - App Services, SQL Databases, Application Insights, KeyVault, Function Apps
-* **Web Frontend** - AngularJs, Angular, TypeScript, CSS, SASS, Bootstrap
+* **Web Frontend** - AngularJs, Angular, TypeScript, CSS, SASS, Bootstrap, JavaScript, jQuery
 * **Misc.** -  PowerShell, Docker, IdentityServer, SpecFlow, Artillery.io, R
 
 ### Currently Learning
