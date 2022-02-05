@@ -35,12 +35,13 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 ### Moderately Proficient
 
 * **Azure** - App Services, SQL Databases, Application Insights, KeyVault, Function Apps
-* **Web Frontend** - AngularJs, Angular, TypeScript, CSS, SASS, Bootstrap, JavaScript, jQuery
+* **Web Frontend** - Blazor, AngularJs, Angular, TypeScript, CSS, SASS, Bootstrap, JavaScript, jQuery
+* **CI/CD** - GitHub Actions, Azure DevOps
 * **Misc.** -  PowerShell, Docker, IdentityServer, SpecFlow, Artillery.io, R
 
 ### Currently Learning
 
-* **In Progress** - Blazor, SignalR
+* **In Progress** - AWS Lambda, Twilio Studio / Functions
 * **Future** - F#, Event-driven Architecture
 
 ### Reading List
