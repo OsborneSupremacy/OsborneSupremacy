@@ -54,7 +54,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 ## Employment History
 
-### [Milliman IntelliScript](https://www.rxhistories.com/)
+### [Milliman IntelliScript](https://www.rxhistories.com/) (2017-05—Present)
 
 **Software Architect** (2020-11—Present)
 
@@ -68,9 +68,9 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 * Developed and deployed mock web APIs to Azure to help develop and test our API consumption services.
 * Led the effort to adopt unit testing, creating patterns and standards for the team.
 
-### [Sand Castle Field Services, LLC](https://www.sandcastlefs.com/)
+### [Sand Castle Field Services, LLC](https://www.sandcastlefs.com/) (2014-10—2017-05)
 
-**Senior Application Developer** (2014-06—2017-05)
+**Senior Application Developer** (2014-10—2017-05)
 
 * Full stack ASP.NET development and support
 * Created new Intranet built on .NET Framework MVC, training other developers on that methodology.
@@ -79,7 +79,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 * Established Continuous Integration
 * Transitioned codebase from SourceSafe to Team Foundation System. Implemented source control for SQL Server DBs.
 
-### [The Benefit Services Group, Inc.](http://bsg.com/)
+### [The Benefit Services Group, Inc.](http://bsg.com/) (1999-07—2014-10)
 
 **Application Development Manager** (2012-06—2014-10)
 
