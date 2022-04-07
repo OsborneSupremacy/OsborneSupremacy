@@ -29,20 +29,26 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 * **.NET** (Framework–.NET 6) - Web Applications (Web API / MVC / Webforms), Windows Services, console applications, mainly with C#.
     * Libraries - AutoMapper, Dapper, EntityFramework, Serilog, AutoFac, Swagger, Json.NET
-    * Testing Libraries - Moq, AutoFixture, Bogus, FluentAssertions, xUnit
+    * Testing Libraries - Moq, AutoFixture, Bogus, AutoBogus, FluentAssertions, xUnit
 * **SQL Server** (2000—2019) - Stored procedures, functions, windowing, table-value parameters, indexing
 
 ### Moderately Proficient
 
 * **Azure** - App Services, SQL Databases, Application Insights, KeyVault, Function Apps
 * **AWS** - Lambda, Transfer, S3
-* **Web Frontend** - Blazor, AngularJs, Angular, TypeScript, CSS, SASS, Bootstrap, JavaScript, jQuery
+* **Web Frontend** - Blazor, TypeScript, CSS, SASS, Bootstrap, JavaScript, jQuery
 * **CI/CD** - GitHub Actions, Azure DevOps
-* **Misc.** -  PowerShell, Docker, IdentityServer, SpecFlow, Artillery.io, R, Twilio Studio / Functions
+* **Misc.** - PowerShell, Docker, IdentityServer, Twilio Studio / Functions
+
+### Just Enough To Be Dangerous
+
+* **gRPC** - Demo available at [github.com/ben-osborne-intelliscript/Getting-Started-With-Grpc-Net](https://github.com/ben-osborne-intelliscript/Getting-Started-With-Grpc-Net)
+* **Web Frontend** - Angular, Vue
+* **Misc.** - SpecFlow, Artillery.io, R
 
 ### Currently Learning
 
-* **In Progress** - GRPC
+* **In Progress** - Twilio Flex
 * **Future** - F#, Event-driven Architecture
 
 ### Reading List
