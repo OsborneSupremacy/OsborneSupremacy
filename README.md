@@ -29,7 +29,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 * **.NET** (Framework–.NET 6) - Web Applications (Web API / MVC / Webforms), Windows Services, console applications, mainly with C#.
     * Libraries - AutoMapper, Dapper, EntityFramework, Serilog, AutoFac, Swagger, Json.NET
-    * Testing Libraries - Moq, AutoFixture, Bogus, AutoBogus, FluentAssertions, xUnit
+    * Testing Libraries - Moq, AutoFixture, Bogus, AutoBogus, FluentAssertions, FluentValidation, xUnit
 * **SQL Server** (2000—2019) - Stored procedures, functions, windowing, table-value parameters, indexing
 
 ### Moderately Proficient
