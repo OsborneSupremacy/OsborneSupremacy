@@ -38,17 +38,17 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 * **AWS** - Lambda, Transfer, S3
 * **Web Frontend** - Blazor, TypeScript, CSS, SASS, Bootstrap, JavaScript, jQuery
 * **CI/CD** - GitHub Actions, Azure DevOps
-* **Misc.** - PowerShell, Docker, IdentityServer, Twilio Studio / Functions
+* **Misc.** - PowerShel, Docker, Twilio (Studio, Function Services, Flex)
 
 ### Just Enough To Be Dangerous
 
 * **gRPC** - Demo available at [github.com/ben-osborne-intelliscript/Getting-Started-With-Grpc-Net](https://github.com/ben-osborne-intelliscript/Getting-Started-With-Grpc-Net)
 * **Web Frontend** - Angular, Vue
-* **Misc.** - SpecFlow, Artillery.io, R
+* **Misc.** - SpecFlow, Nginx, R
 
 ### Currently Learning
 
-* **In Progress** - Twilio Flex
+* **In Progress** - containerd
 * **Future** - F#, Event-driven Architecture
 
 ### Reading List
@@ -67,7 +67,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 * Helped design and implement architecture for backend API (.NET Core 3.1), which was part of a complete UI rewrite of organization's flagship web application.
 * Created code and architectural standards for backend development team.
-* Designed and implemented prototype applications for processing health data.
+* Designed and implemented prototype applications for processing health data (HL7 standards).
 
 **Software Development Team Lead** (2019-09—2020-10), **Software Developer** (2017-05—2019-08)
 
@@ -96,7 +96,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 **Software Developer** (1999-07—2012-05)
 
-* Key member of the team responsible for developing, improving, and supporting organization's flagship product, which was an online benefits enrollment web application.
+* Key member of the team responsible for developing, improving, and supporting organization's flagship product, an online group benefits enrollment web application.
 * Helped the system mature, developing patterns and integrations with dozens of vendors (e.g. medical, dental, vision, life, and flexible spending account administrators, HRIS systems, payroll systems, etc.)
 
 ---
