@@ -38,7 +38,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 * **AWS** - Lambda, Transfer, S3
 * **Web Frontend** - Blazor, TypeScript, CSS, SASS, Bootstrap, JavaScript, jQuery
 * **CI/CD** - GitHub Actions, Azure DevOps
-* **Misc.** - PowerShel, Docker, Twilio (Studio, Function Services, Flex)
+* **Misc.** - PowerShell, Docker, Twilio (Studio, Function Services, Flex)
 
 ### Just Enough To Be Dangerous
 
