@@ -35,7 +35,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 ### Moderately Proficient
 
 * **Azure** - App Services, SQL Databases, Application Insights, KeyVault, Function Apps
-* **AWS** - Lambda, Transfer, S3
+* **AWS** - Lambda, Transfer, S3, Workspaces
 * **Web Frontend** - Blazor, TypeScript, CSS, SASS, Bootstrap, JavaScript, jQuery
 * **CI/CD** - GitHub Actions, Azure DevOps
 * **Misc.** - PowerShell, Docker (Compose), Twilio (Studio, Function Services, Flex)
@@ -43,7 +43,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 ### Just Enough To Be Dangerous
 
 * **gRPC** - Demo available at [github.com/ben-osborne-intelliscript/Getting-Started-With-Grpc-Net](https://github.com/ben-osborne-intelliscript/Getting-Started-With-Grpc-Net)
-* **Web Frontend** - Angular
+* **Web Frontend** - Angular, Hugo
 * **Misc.** - SpecFlow, Nginx, R
 
 ### Currently Learning
