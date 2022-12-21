@@ -34,7 +34,7 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 ### Moderately Proficient
 
-* **Azure** - App Services, SQL Databases, Application Insights, KeyVault, Function Apps
+* **Azure** - App Services, SQL Databases, CosmosDb, Application Insights, KeyVault, Function Apps
 * **AWS** - Lambda, Transfer, S3, Workspaces
 * **Web Frontend** - Blazor, TypeScript, CSS, SASS, Bootstrap, JavaScript, jQuery
 * **CI/CD** - GitHub Actions, Azure DevOps
@@ -53,8 +53,8 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 ### Reading List
 
-* **In Progress** - [_Domain Driven Design_](https://read.amazon.com/kp/embed?asin=B00794TAUG&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_X2G7T7Z12HT6FVK848N8), [_Release It!_](https://read.amazon.com/kp/embed?asin=B079YWMY2V&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_C2M2ZDFEH5SE5A1C0J4R)
-* **Recently Finished** - [_The DevOps Handbook_](https://read.amazon.com/kp/embed?asin=B01M9ASFQ3&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_25Z3JGNSJDS3E0RBEZ1Z), [_The Unicorn Project_](https://read.amazon.com/kp/embed?asin=B07QT9QR41&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_YZ41FGQGKTH5PTY3TRDT), [_Beyond the Phoenix Project_](https://www.amazon.com/Beyond-Phoenix-Project-audiobook/dp/B07B76MQNY/ref=sr_1_1?crid=2RU68C47LUCPD&keywords=beyond+the+phoenix+project&qid=1636596734&s=books&sprefix=beyond+the+phoe%2Cstripbooks%2C159&sr=1-1), [_Critical Chain_](https://read.amazon.com/kp/embed?asin=B002LHRM2E&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_3ZVGEH7EJ8QTMWA23HPN)
+* **In Progress** - [_Release It!_](https://read.amazon.com/kp/embed?asin=B079YWMY2V&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_C2M2ZDFEH5SE5A1C0J4R)
+* **Recently Finished** - [_Domain Driven Design_](https://read.amazon.com/kp/embed?asin=B00794TAUG&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_X2G7T7Z12HT6FVK848N8), [_The DevOps Handbook_](https://read.amazon.com/kp/embed?asin=B01M9ASFQ3&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_25Z3JGNSJDS3E0RBEZ1Z), [_The Unicorn Project_](https://read.amazon.com/kp/embed?asin=B07QT9QR41&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_YZ41FGQGKTH5PTY3TRDT), [_Beyond the Phoenix Project_](https://www.amazon.com/Beyond-Phoenix-Project-audiobook/dp/B07B76MQNY/ref=sr_1_1?crid=2RU68C47LUCPD&keywords=beyond+the+phoenix+project&qid=1636596734&s=books&sprefix=beyond+the+phoe%2Cstripbooks%2C159&sr=1-1)
 * **All-time Favorites** - [_The Phoenix Project_](https://read.amazon.com/kp/embed?asin=B078Y98RG8&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_RYQXTGTJ8WN9Q6GPSYXJ), [_The Goal_](https://read.amazon.com/kp/embed?asin=B002LHRM2O&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_QBBV7GKKV7NBX6ZYSWSQ), [_Atomic Habits_](https://read.amazon.com/kp/embed?asin=B002LHRM2O&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_QBBV7GKKV7NBX6ZYSWSQ), [_Essentialism_](https://read.amazon.com/kp/embed?asin=B00G1J1D28&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_9DBHQ55W20SQZPBKTDEC)
 
 ---
