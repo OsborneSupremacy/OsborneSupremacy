@@ -25,12 +25,11 @@ I enjoy practicing and advocating for SOLID design principles, as well as DevOps
 
 * .NET
 * RDBMS - SQL Server, PostgreSQL
-* AWS - ECS, Batch, Lambda, Aurora, DynamoDB
+* AWS - ECS, Batch, Lambda, Aurora, DynamoDB, SES, Route53
 * Web Frontend - Blazor, TypeScript, CSS, SASS, Bootstrap, JavaScript
 * IAC - Terraform
 * CI/CD - GitHub Actions, Azure DevOps, YAML
-* Misc. - PowerShell, Docker, Twilio (Studio, Function Services, Flex)
-
+* Misc. - PowerShell, Docker, RabbitMQ
 ---
 
 ## Employment History
