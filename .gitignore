@@ -352,3 +352,7 @@ MigrationBackup/
 
 # Rider
 .idea/
+
+# MacOs
+.DS_Store
+Thumbs.db

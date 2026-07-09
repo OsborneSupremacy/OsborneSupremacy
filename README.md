@@ -7,7 +7,7 @@
 * email: ben@osbornesupremacy.com
 * linkedin: [linkedin.com/in/benosborne](http://linkedin.com/in/benosborne)
 * github: [github.com/osbornesupremacy](https://github.com/osbornesupremacy)
-* stackoverflow: [stackoverflow.com/users/4117922](https://stackoverflow.com/users/4117922)
+* sessionize: [sessionize.com/benosborne/](https://sessionize.com/benosborne/)
 
 ## About Me
 
@@ -24,10 +24,9 @@ I specicialize in designing serverless and containerized solutions in AWS, as we
     * Lambda, ECS, Fargate, Batch, DynamoDB, S3, SES, Route53, API Gateway, SNS, SQS, RDS & Aurora, EFS
 * .NET
 * RDBMS - SQL Server, PostgreSQL
-* Web Frontend - Blazor, TypeScript, CSS, SASS, Bootstrap, JavaScript
 * IAC - Terraform
-* CI/CD - GitHub Actions, Azure DevOps, YAML
-* Misc. - PowerShell, Docker, RabbitMQ
+* CI/CD - GitHub Actions
+* Misc. - Docker, RabbitMQ
 
 ## Employment History
 
