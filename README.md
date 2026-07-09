@@ -7,7 +7,7 @@
 * email: ben@osbornesupremacy.com
 * linkedin: [linkedin.com/in/benosborne](http://linkedin.com/in/benosborne)
 * github: [github.com/osbornesupremacy](https://github.com/osbornesupremacy)
-* sessionize: [sessionize.com/benosborne/](https://sessionize.com/benosborne/)
+* sessionize: [sessionize.com/benosborne](https://sessionize.com/benosborne)
 
 ## About Me
 
